@@ -66,3 +66,5 @@ Hazem Abd-Allah
 8. Project Files
     
 Figma Design: https://www.figma.com/design/lwFRt8XYUj7y5KHA9KlOYH/travelia?node-id=0-1&t=PCTNk77S8iXWrHzU-1
+
+drive link: https://drive.google.com/drive/folders/108o4wauPDyHP5zBx9Hi9fyoo3Vb1S89s?usp=sharing
